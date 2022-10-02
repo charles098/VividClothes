@@ -35,15 +35,9 @@ _엘리스 프로젝트 기간(5/23 ~ 6/5)에는 [GitLab](https://kdt-gitlab.eli
 
 ## 🎬 미리 보기 (Preiview)
 
-  <br />
+<br />
 
-  <p align="center">
-   <img src="https://user-images.githubusercontent.com/73643088/176643317-379e816c-4cf9-4ed2-a064-7670c0712255.gif" alt="home-responsive" width="50%">
-  </p>
-  <br />
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/73643088/176643292-3f424dee-37c6-436e-961f-2e8834abdcfd.gif" width="50%" alt="choose-product">
-  </p>
+https://user-images.githubusercontent.com/55475550/193474234-55e638de-c364-410b-9b1c-24fb569a48b1.mp4
 
 <br />
 
